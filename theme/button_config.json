@@ -1,4 +1,8 @@
 {
   "activeButtonTheme": "",
-  "loadingScreenColor": "white"
+  "levelNumberPosition": {
+    "xPercent": 50,
+    "yPercent": 53
+  },
+  "loadingScreenColor": "#fafffc"
 }
